@@ -1,0 +1,9 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A sophisticated AI assistant inspired by Iron Man's JARVIS, featuring real-time voice interaction, holographic HUD, and multimodal capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
